@@ -19,6 +19,14 @@ This software support pathologists and researchers to provide quantative biomark
    
    1). Create and activate virtual environment
    
+   >
+   >  **Create**: conda create -n sepo python==3.7
+   > 
+   >  **Activate**: conda activate seop
+   >
+
+   2).  
+   
 3. Executable file
 
 <H2>How to Use</H2>
