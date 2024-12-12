@@ -15,7 +15,7 @@ This software support pathologists and researchers to provide quantative biomark
 
 <H2>How to run</H2>
 
-1. Jupyter notebook
+1. Virtual environment
    
    1). Create and activate virtual environment
    
@@ -25,7 +25,13 @@ This software support pathologists and researchers to provide quantative biomark
    >  **Activate**: conda activate seop
    >
 
-   2).  
+   2). Install python packages with requirements.txt 
+
+   > **Requirements**: pip install -r requirements.txt
+   
+   3). Run SEPI_IR
+
+   > **Run**: python main.py
    
 3. Executable file
 
