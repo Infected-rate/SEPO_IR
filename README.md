@@ -13,8 +13,13 @@ This software support pathologists and researchers to provide quantative biomark
 ### Preview
 ![sample](https://github.com/user-attachments/assets/e26887d4-f10b-479b-80ac-c341462da66e)
 
-<H2>Installation</H2>
-1. 
+<H2>How to run</H2>
+
+1. Jupyter notebook
+   
+   1). Create and activate virtual environment
+   
+3. Executable file
 
 <H2>How to Use</H2>
 <H2>Application Requirements</H2>
@@ -24,4 +29,5 @@ If you have any questions or provide your cell images, please contact us by emai
 
 - Hongseok Oh: [hs.oh-isw@cbnu.ac.kr](mailto:hs.oh-isw@cbnu.ac.kr)
 - Jaemine Jeong: [jm.jeong-isw@chungbuk.ac.kr](mailto:jm.jeong-isw@chungbuk.ac.kr)
+
 
