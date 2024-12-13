@@ -42,18 +42,23 @@ This software support pathologists and researchers to provide quantative biomark
 
    3). Execute "SEPO-IR.exe"
    
-<H2>How to Use</H2>
+<H2>How to use</H2>
 
 ### Calculate infected cell image
 1. Image upload
-   Click on [File] - [Upload Image] to upload the H&E image.
+   Click on **[File]** - **[Upload Image]** to upload the H&E image.
+![1-1](https://github.com/user-attachments/assets/ec70d4c8-dbf3-422a-8790-12431964d738)
+![1-2](https://github.com/user-attachments/assets/1fe3837c-ddbc-4db9-80f6-038f605b97ca)
 
 3. Calculate infected cell ratio
-   Click the [Calculate] button at the bottom left to process the uploaded image.
+   Click the **[Calculate]** button at the bottom left to process the uploaded image.
+![2-1](https://github.com/user-attachments/assets/9d7e3ef0-a293-4cc4-b30f-742c292a1b44)
+![2-2](https://github.com/user-attachments/assets/38a4b5ea-8e03-4db8-ad33-8c606b08ca51)
+
 
 4. Crop
-   The program also analyze the infection range not only for the entire image but also for specific sections. By clicking [Crop], you can calculate the infection range for a selected area. Additionally, the cropped image can be reverted to the original image using [Edit] - [Undo].
-
+   The program also analyze the infection range not only for the entire image but also for specific sections. By clicking **[Crop]** - **[Select]**, you can calculate the infection range for a selected area. Additionally, the cropped image can be reverted to the original image using **[Edit]** - **[Undo]**.
+![3](https://github.com/user-attachments/assets/83460900-31c3-4b6c-bf48-372da0d120d6)
 
 <H2>Contact Us</H2>
 If you have any questions or provide your cell images, please contact us by email
