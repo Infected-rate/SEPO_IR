@@ -35,8 +35,11 @@ This software support pathologists and researchers to provide quantative biomark
    > **Run**: python main.py
    
 3. Executable file
+   
    1). Download project
+   
    2). Unzip "SEPO_IR.exe.zip"
+
    3). Execute "SEPO-IR.exe"
    
 <H2>How to Use</H2>
